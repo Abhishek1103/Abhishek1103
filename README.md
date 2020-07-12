@@ -1,4 +1,14 @@
-### Hi there 👋
+# Abhishek Kr. Singh - @Abhishek1103 👋
+
+I'm a young developer 🧑‍💻 with a knack for solving problems with codezap
+
+### I Love 
+* Football ⚽️
+* Movies 🎬
+* History 📜
+
+### Contact Me
+* [LinkeIn](https://www.linkedin.com/in/abhishek-kumar-singh1103/)
 
 <!--
 **Abhishek1103/Abhishek1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
