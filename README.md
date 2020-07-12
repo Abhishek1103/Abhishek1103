@@ -8,7 +8,7 @@ I'm a young developer 🧑‍💻 with a knack for solving problems with code �
 * History 📜
 
 ### Contact Me
-* [LinkeIn](https://www.linkedin.com/in/abhishek-kumar-singh1103/)
+* [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-singh1103/)
 
 <!--
 **Abhishek1103/Abhishek1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
